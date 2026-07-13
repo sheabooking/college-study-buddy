@@ -50,7 +50,7 @@ Once installed, type `/study` to start a session, or just start talking about yo
 
 ## About the Creator
 
-This skill was created by **Shea Johnson**, founder of Shea Johnson LLC, while working through her own 16-course self-paced degree path. It was built to solve a real problem she had — losing momentum between sessions and needing an honest, judgment-free way to stay accountable.
+This skill was created by **Shea Johnson**, founder of Shea Johnson LLC, while obtaining her own college degree. It was built to solve a real problem she had — losing momentum between sessions and needing an honest, judgment-free way to stay accountable.
 
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
 
